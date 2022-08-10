@@ -1,0 +1,25 @@
+.footer {
+  background-color: #334b14;
+}
+
+.contact_links {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.list-unstyled {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.footer_title {
+  font-family: "Cuprum", sans-serif;
+}
+
+.col-sm-3 {
+  color: #ffffff;
+}
+
+.standarts_list img {
+  border-radius: 55%; 
+}

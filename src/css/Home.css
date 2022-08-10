@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  
+}
+
+.media_image {
+  max-width: 300px;
+  max-height: 300px;
+}
+
+.sub_home {
+  background-color: #6d8c54;
+  width: 100%;
+}
+
+.card-body {
+  background-color: #293f2b;
+  width: 100%;
+  color: #ffffff;
+}
+
+.send_feedback_form {
+    background-color: #2D442F;
+
+}
+
+.morenewspic1 {
+  transform: translateX(25%);
+}
+
+.morenewspic2 {
+  transform: translateX(-25%);
+}
+
+
